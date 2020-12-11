@@ -1,7 +1,7 @@
 # Home Page
-## Welcome, I am Steve Jobs
+## Hello and Welcome, I am Cameron Friedt
 
-I am a student of CSE. And I do coding for pass time and I like to pass time making websites in markdown.
+I am a student at University of Missouri - Columbia. This is my first year at Mizzou but I am technically a Junior. I am a Computer Science major but I am unsure of which field I am going to pursue.
 
 Navigate my website using these links
 
