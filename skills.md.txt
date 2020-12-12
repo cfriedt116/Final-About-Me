@@ -1,14 +1,18 @@
 # Skills
 
 ## My coding skills
-1. Competitive programming
 1. C language
 1. C++ language
+1. Java
 1. Python
-1. Markdown
+1. (some)Networking
 
-## Soft skills
+## Personal skills
 1. Leadership
 1. Responsibility
+1. Decisive
+1. Motivation
+
+
 
 [Go back to home page](./README.md)
